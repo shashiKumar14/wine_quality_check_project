@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/3dd722b5789b4da9a54d665cad002bd3/artifacts
+end_time: 1698576314870
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3dd722b5789b4da9a54d665cad002bd3
+run_name: mlops
+run_uuid: 3dd722b5789b4da9a54d665cad002bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698576313378
+status: 4
+tags: []
+user_id: walkingtree
